@@ -18,5 +18,10 @@ Salutations! My name is Patrick and thank you for stopping by!
 # Languages I'm Currently Learning
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+# Environments I Work With
+![](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 # Stats
 ![](https://github-readme-stats.vercel.app/api?username=pzhang58)
