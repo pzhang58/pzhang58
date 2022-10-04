@@ -3,7 +3,7 @@
 
 Salutations! My name is Patrick and thank you for stopping by!
 - I majored in Mechanical Engineering at the University of South Florida. Graduated with a Bachelor's of Science in 2019.
-- I'll be studying a Masters of Science in Data Science at City, University of London starting Sept 2022.
+- Currently studying a Masters of Science in Data Science at City, University of London.
 
 # Get in Touch
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pzhang58/)
