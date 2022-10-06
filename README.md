@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=pzhang58&color=brightgreen)
 
 Salutations! My name is Patrick and thank you for stopping by!
-- I majored in Mechanical Engineering at the University of South Florida. Graduated with a Bachelor's of Science in 2019.
+- Graduated with a Bachelor's of Science in Mechanical Engineering from the University of South Florida in 2019.
 - Currently studying a Masters of Science in Data Science at City, University of London.
 
 # Get in Touch
