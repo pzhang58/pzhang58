@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=pzhang58&color=brightgreen)
 
 Salutations! My name is Patrick and thank you for stopping by!
-- Graduated with a Bachelor's of Science in Mechanical Engineering from the University of South Florida in 2019.
-- Currently studying a Masters of Science in Data Science at City, University of London.
+- Graduated with a Bachelor of Science in Mechanical Engineering from the University of South Florida in 2019.
+- Currently studying a Master of Science in Data Science at City, University of London.
 
 # Get in Touch
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pzhang58/)
