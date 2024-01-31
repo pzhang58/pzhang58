@@ -5,6 +5,8 @@ Salutations! My name is Patrick and thank you for stopping by!
 - Graduated with a Bachelor of Science in Mechanical Engineering from the University of South Florida in 2019.
 - Currently studying a Master of Science in Data Science at City, University of London.
 
+View my portfolio [here](https://github.com/pzhang58/data_science_and_analysis_portfolio)
+
 # Get in Touch
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pzhang58/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pzhang5859@gmail.com)
