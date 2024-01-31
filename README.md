@@ -16,6 +16,9 @@ View my other badges [here](https://www.credly.com/users/patrick-zhang/badges)
 [![IBM Data Science Professional Certificate](https://images.credly.com/size/200x200/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/earner/earned/badge/42373a7b-d391-483a-a30d-7b70ac81d1be)
 [![IBM Data Anaylst Professional Certificate](https://images.credly.com/size/200x200/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png)](https://www.credly.com/earner/earned/badge/aa32d66e-a0ea-47d1-b444-037bd58837cf)
 
+# Analytical Tools I Have Experience With
+![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 # Languages I Have Experience With
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
