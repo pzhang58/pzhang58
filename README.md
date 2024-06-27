@@ -14,8 +14,8 @@ View my portfolio [here](https://github.com/pzhang58/data_science_and_analysis_p
 # My Badges
 View my other badges [here](https://www.credly.com/users/patrick-zhang/badges)
 
-[![Data Science Foundations](https://images.credly.com/size/200x200/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png)](https://www.credly.com/earner/earned/badge/dd014f75-c5dc-49d0-a86d-45d115928bbe)
-[![IBM Data Science Professional Certificate](https://images.credly.com/size/200x200/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png)](https://www.credly.com/earner/earned/badge/42373a7b-d391-483a-a30d-7b70ac81d1be)
+[![Data Science Foundations](https://images.credly.com/size/200x200/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png)](https://www.credly.com/earner/earned/badge/dd014f75-c5dc-49d0-a86d-45d115928bbe)
+[![IBM Data Science Professional Certificate](https://images.credly.com/size/200x200/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png)](https://www.credly.com/earner/earned/badge/42373a7b-d391-483a-a30d-7b70ac81d1be)
 [![IBM Data Anaylst Professional Certificate](https://images.credly.com/size/200x200/images/462503e9-d76e-47ce-b82e-1d7df909ba70/Professional_Certificate_-_Data_Analyst.png)](https://www.credly.com/earner/earned/badge/aa32d66e-a0ea-47d1-b444-037bd58837cf)
 
 # Analytical Tools I Have Experience With
